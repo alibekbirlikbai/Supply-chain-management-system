@@ -3,14 +3,10 @@
 This project aims to smoothen the supply chain management process by closely monitoring the dealers 
 and clients and continually tracking the products through the different points in the supply chain
 
-Application will automate the system of communication between the management or admin, dealers, and clients of the company. There are three modules in this application:
+Application modules:
 * Admin module – The Admin uses this module to check information on the manufactured products, newly launched products, and products that must be delivered to the clients.
 * Dealer module – This module keeps track of all the essential information concerning the dealers, particularly the record of items. Dealers can generate and update the item list for a product using this module.
 * Client module – The client uses this module to provide the necessary specifications of a product. The client feedback is processed through this module and forwarded to the Admin.
-
-The dealers usually create a list of items as per the product information provided to them, after which the manufacturer selects the materials that best fit the specifications given by the client.
-
-Then, the selected list of items is forwarded to the inventory department for processing, after which the manufacturing begins. Once the production is complete, the accounts department calculates the raw materials’ costs and manufacturing costs to generate the total bill. Finally, the product, along with the invoice, is shipped to the client. The client is free to offer feedback on the received product (Commenting).
 
 ## Project Design (Not Front-End)
 ![1 (Client-Page)](https://user-images.githubusercontent.com/87764579/180738408-388ec844-783d-45fe-b88f-900b33914c1d.png)
